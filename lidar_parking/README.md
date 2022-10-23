@@ -1,0 +1,1 @@
+PointCloud segmentation to get the two euclidean clusters with the maximum reflection intensity, using the PCL library in ROS2.
